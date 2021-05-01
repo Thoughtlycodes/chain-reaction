@@ -98,7 +98,7 @@ body {
 }
 @media (min-width: 320px) {
   html {
-    font-size: 30%;
+    font-size: 36%;
   }
   .cornerOne,
   .cornerTwo,
@@ -109,7 +109,7 @@ body {
   .sideRight,
   .sideDown,
   .center {
-    font-size: 0.6rem;
+    font-size: 1rem;
   }
 }
 @media (min-width: 481px) {

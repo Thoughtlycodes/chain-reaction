@@ -1,11 +1,11 @@
-var row = 7
+var row = 6
 var playernumber = 1;
 var charaterArry = ['.', '😎', '💥', '👽', '🤡', '🐲','🌛','👑','🧡','💛','💚','💙','💜','🤎','🖤','⚽','💗','🔴','🟠','🟡','🟢','🔵','🟣','🟤','⚫','🎱']
 var numberOfPlayer = 1;
 
 var sHeight = window.innerHeight
 
-var col = 12
+var col = 10
 // if(sHeight > 400) col = 5
 // if(sHeight > 630) col = 27
 // if(sHeight > 800) col = 14
