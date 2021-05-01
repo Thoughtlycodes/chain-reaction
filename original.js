@@ -5,7 +5,7 @@ var numberOfPlayer = 2;
 
 var sHeight = window.innerHeight
 
-var col = 10
+var col = 9
 // if(sHeight > 400) col = 5
 // if(sHeight > 630) col = 27
 // if(sHeight > 800) col = 14
