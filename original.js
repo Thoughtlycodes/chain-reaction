@@ -5,11 +5,11 @@ var numberOfPlayer = 1;
 
 var sHeight = window.innerHeight
 
-var col = 10
-if(sHeight > 400) col = 5
-if(sHeight > 630) col = 27
-if(sHeight > 800) col = 14
-if(sHeight > 1000) col = 10
+var col = 20
+// if(sHeight > 400) col = 5
+// if(sHeight > 630) col = 27
+// if(sHeight > 800) col = 14
+// if(sHeight > 1000) col = 10
 
 // var htmlElement = document.getElementsByTagName('html')[0]
 // if(row>=5) htmlElement.style.fontSize = '40%'

@@ -82,9 +82,9 @@ body {
 
 @media (min-width: 250px) {
   html {
-    font-size: 10%;
+    font-size: 15%;
   }
-  .cornerOne,
+  /* .cornerOne,
   .cornerTwo,
   .cornerThree,
   .cornerFour,
@@ -94,13 +94,13 @@ body {
   .sideDown,
   .center {
     font-size: 0.2rem;
-  }
+  } */
 }
 @media (min-width: 320px) {
   html {
-    font-size: 14%;
+    font-size: 19%;
   }
-  .cornerOne,
+  /* .cornerOne,
   .cornerTwo,
   .cornerThree,
   .cornerFour,
@@ -110,13 +110,13 @@ body {
   .sideDown,
   .center {
     font-size: 0.6rem;
-  }
+  } */
 }
 @media (min-width: 481px) {
   html {
     font-size: 23%;
   }
-  .cornerOne,
+  /* .cornerOne,
   .cornerTwo,
   .cornerThree,
   .cornerFour,
@@ -126,13 +126,13 @@ body {
   .sideDown,
   .center {
     font-size: 0.7rem;
-  }
+  } */
 }
 @media (min-width: 641px) {
   html {
     font-size: 30%;
   }
-  .cornerOne,
+  /* .cornerOne,
   .cornerTwo,
   .cornerThree,
   .cornerFour,
@@ -142,13 +142,13 @@ body {
   .sideDown,
   .center {
     font-size: 1rem;
-  }
+  } */
 }
 @media (min-width: 700px) {
   html {
     font-size: 32%;
   }
-  .cornerOne,
+  /* .cornerOne,
   .cornerTwo,
   .cornerThree,
   .cornerFour,
@@ -158,13 +158,13 @@ body {
   .sideDown,
   .center {
     font-size: 1.3rem;
-  }
+  } */
 }
 @media (min-width: 961px) {
   html {
     font-size: 37%;
   }
-  .cornerOne,
+  /* .cornerOne,
   .cornerTwo,
   .cornerThree,
   .cornerFour,
@@ -174,13 +174,13 @@ body {
   .sideDown,
   .center {
     font-size: 1.7rem;
-  }
+  } */
 }
 @media (min-width: 1025px) {
   html {
     font-size: 48%;
   }
-  .cornerOne,
+  /* .cornerOne,
   .cornerTwo,
   .cornerThree,
   .cornerFour,
@@ -190,7 +190,7 @@ body {
   .sideDown,
   .center {
     font-size: 2rem;
-  }
+  } */
 }
 @media (min-width: 1281px) {
   html {
@@ -205,6 +205,6 @@ body {
   .sideRight,
   .sideDown,
   .center {
-    font-size: 4rem;
+    font-size: 2rem;
   }
 }
